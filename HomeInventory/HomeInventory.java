@@ -1,3 +1,6 @@
+HomeInventory
+
+
 package homeinventory;
 
 import javax.swing.*;
