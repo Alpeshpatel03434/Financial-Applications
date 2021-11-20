@@ -16,6 +16,6 @@ The Home Inventory Manager Project helps you keep track of your valuable belongi
 
 Clone or download this repository to your local machine.
 
-Project : LoanAssistant.java </br>
-Compile java code : javac LoanAssistant.java </br>
-Run java code     : java LoanAssistant
+Project : HomeInventory.java </br>
+Compile java code : javac HomeInventory.java </br>
+Run java code     : java HomeInventory
